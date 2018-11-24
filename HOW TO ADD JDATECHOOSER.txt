@@ -1,0 +1,4 @@
+1.Right click on "SWING CONTROLS"
+2. Go to Palette Manager
+3.Add from JAR
+4.REST YOU KNOW LOL

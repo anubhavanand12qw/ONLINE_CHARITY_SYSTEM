@@ -1,0 +1,19 @@
+IMPORTANT NOTE: MAKE SURE THERE IS ONLY ONE MAIN FUNCTION FOR A PROJECT
+1. ONCE THE CODE IS FULLY WORKING :Right-click on the Project name
+2.Select Properties
+3.Click Packaging
+4.Check Build JAR after Compiling
+5.Check Compress JAR File
+6.Click OK to accept changes
+7.Right-click on a Project name
+8.Select Build or Clean and Build
+9.Go to file location where Java_Final.jar(different name in your case) is locted
+    Though it must be a .jar file
+    (File Location:C:\Users\anubh\Documents\NetBeansProjects\Java_Final\dist)
+10. HOLD SHIFT AND RIGHT CLICK >OPEN COMMAND WINDOW HERE
+11.Now type this "java -jar Java_Final.jar"
+12.Your code should run. Now close your code.
+13.Type "exit" on Command Prompt.(Cmd prompt will close)
+14.Now u can simply open your .jar file by double clicking it.
+
+MAKE SURE IF YOU ARE CHANGING ANYTHING IN CODE. YOU MUST BUILD IT AGAIN!!!!
